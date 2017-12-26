@@ -1,0 +1,16 @@
+D:\2010.4.17\gunterTaskmgr\goodAPI\bin\Debug\goodAPI.exe
+D:\2010.4.17\gunterTaskmgr\goodAPI\bin\Debug\goodAPI.pdb
+D:\2010.4.17\gunterTaskmgr\goodAPI\obj\Debug\ResolveAssemblyReference.cache
+D:\2010.4.17\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.Properties.Resources.resources
+D:\2010.4.17\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.csproj.GenerateResource.Cache
+D:\2010.4.17\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.exe
+D:\2010.4.17\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.pdb
+D:\2010.4.17\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.Form1.resources
+D:\2010.4.21\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.exe
+D:\2010.4.21\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.pdb
+D:\2010.4.21\gunterTaskmgr\goodAPI\bin\Debug\goodAPI.exe
+D:\2010.4.21\gunterTaskmgr\goodAPI\bin\Debug\goodAPI.pdb
+D:\2010.4.21\gunterTaskmgr\goodAPI\obj\Debug\ResolveAssemblyReference.cache
+D:\2010.4.21\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.Form1.resources
+D:\2010.4.21\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.Properties.Resources.resources
+D:\2010.4.21\gunterTaskmgr\goodAPI\obj\Debug\goodAPI.csproj.GenerateResource.Cache

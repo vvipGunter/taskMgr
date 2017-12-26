@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goodAPI", "gunterTaskmgr\goodAPI\goodAPI.csproj", "{5F01AC00-3CF7-4F3E-A785-BA5F54779BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gunterTASKMGR", "gunterTaskmgr\gunterTASKMGR\gunterTASKMGR.csproj", "{B2954B63-6A47-4EB4-9DAC-2CE7B1E185AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F01AC00-3CF7-4F3E-A785-BA5F54779BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F01AC00-3CF7-4F3E-A785-BA5F54779BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F01AC00-3CF7-4F3E-A785-BA5F54779BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F01AC00-3CF7-4F3E-A785-BA5F54779BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2954B63-6A47-4EB4-9DAC-2CE7B1E185AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2954B63-6A47-4EB4-9DAC-2CE7B1E185AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2954B63-6A47-4EB4-9DAC-2CE7B1E185AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2954B63-6A47-4EB4-9DAC-2CE7B1E185AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

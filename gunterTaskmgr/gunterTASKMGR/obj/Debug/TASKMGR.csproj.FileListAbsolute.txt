@@ -1,0 +1,20 @@
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\bin\Debug\TASKMGR.exe
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\bin\Debug\TASKMGR.pdb
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.HomeForm.resources
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.exe
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.pdb
+D:\我的文档\Visual Studio 2008\Projects\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.NewBuildTaskForm.resources
+D:\2010.4.17\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.exe
+D:\2010.4.17\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.pdb
+D:\2010.4.17\gunterTaskmgr\TASKMGR\bin\Debug\TASKMGR.exe
+D:\2010.4.17\gunterTaskmgr\TASKMGR\bin\Debug\TASKMGR.pdb
+D:\2010.4.17\gunterTaskmgr\TASKMGR\obj\Debug\ResolveAssemblyReference.cache
+D:\2010.4.17\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.HomeForm.resources
+D:\2010.4.17\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.NewBuildTaskForm.resources
+D:\2010.4.17\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.Properties.Resources.resources
+D:\2010.4.17\gunterTaskmgr\TASKMGR\obj\Debug\TASKMGR.csproj.GenerateResource.Cache
+D:\2010.4.17\gunterTaskmgr\gunterTASKMGR\obj\Debug\TASKMGR.exe
+D:\2010.4.17\gunterTaskmgr\gunterTASKMGR\obj\Debug\TASKMGR.pdb
